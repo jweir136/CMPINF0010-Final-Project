@@ -1,12 +1,12 @@
 # CMPINF0010-Final-Project
 
-*Jacob's Metric:* Crime and Police Incidents
+*Jacob's Metric:* Home Foreclosures
 
-*Jacob's Dataset:* https://data.wprdc.org/dataset/uniform-crime-reporting-data
+*Jacob's Dataset:* https://data.wprdc.org/dataset/allegheny-county-mortgage-foreclosure-records
 
-*Chidubem's Metric:* Allegheny County Air County
+*Chidubem's Metric:* Pools & Spray Parks
 
-*Chidubem's Dataset:* https://data.wprdc.org/dataset/allegheny-county-air-quality
+*Chidubem's Dataset:* https://data.wprdc.org/dataset/city-pools
 
 *Chase's Metric:* Non-Traffic Citations
 
